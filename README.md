@@ -1,7 +1,7 @@
 # DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models
 [Project Page](https://primecai.github.io/diffdreamer)
 
-![Teaser image](figures/teaser.jpg)
+![Teaser image](teaser.png)
 
 **DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models**<br>
 [Shengqu Cai](https://primecai.github.io/), [Eric Ryan Chan](https://ericryanchan.github.io/), [Songyou Peng](https://pengsongyou.github.io/), [Mohamad Shahbazi](https://people.ee.ethz.ch/~mshahbazi/), [Anton Obukhov](https://www.obukhov.ai/), [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html), [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
